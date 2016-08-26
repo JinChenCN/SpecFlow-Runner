@@ -1,0 +1,14 @@
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\Default.srprofile
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\SpecFlowRunner.Specs.dll.config
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\SpecFlowRunner.Specs.dll
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\SpecFlowRunner.Specs.pdb
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\TechTalk.SpecRun.dll
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\obj\Debug\SpecFlowRunner.Specs.csprojResolveAssemblyReference.cache
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\obj\Debug\SpecFlowRunner.Specs.dll
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\obj\Debug\SpecFlowRunner.Specs.pdb
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\SpecFlowRunner.exe
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner.Specs\bin\Debug\SpecFlowRunner.pdb

@@ -1,0 +1,5 @@
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner\bin\Debug\SpecFlowRunner.exe.config
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner\bin\Debug\SpecFlowRunner.exe
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner\bin\Debug\SpecFlowRunner.pdb
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner\obj\Debug\SpecFlowRunner.exe
+C:\VSWorkSpace\SpecFlowRunner\SpecFlowRunner\obj\Debug\SpecFlowRunner.pdb
